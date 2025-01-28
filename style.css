@@ -98,12 +98,24 @@ ol{
 }
 .texto_cat{
     margin-left:28px;
+    color: hsl(30, 10%, 34%);
 }
 .hr_table{
     margin: 10px 0;
 }
 .texto_cat_med{
   color: hsl(332, 51%, 32%); 
-  margin: 0 40%;
+  margin-left: 50%;
+  text-align: left;
   
 } 
+.t2{
+margin-left: 53%;
+}
+
+.t3{
+    margin-left: 51%;
+}
+.t4{
+    margin-left: 55%;
+}
