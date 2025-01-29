@@ -65,6 +65,10 @@ li{
     
     line-height: 2rem;
     padding-left: 15px; 
+    
+}
+li::marker{
+    color:hsl(332, 51%, 32%);
 }
 
 ul{
